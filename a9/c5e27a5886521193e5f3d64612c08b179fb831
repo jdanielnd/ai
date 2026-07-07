@@ -1,0 +1,28 @@
+packages/harness-claude-code/src/claude-code-harness.test.ts
+  s_0296e0e20af842::t_3fa26b16b713b2 223-236,495-499,501-544
+  s_0296e0e20af842::t_f32b41aad8f8f2 500
+  s_0296e0e20af842::t_6aab9e87502c96 11-67,72-77,80-82,100,241-242
+  s_0296e0e20af842::t_8c06045ae51a6a 101,545
+.changeset/quiet-bridges-listen.md
+  s_0296e0e20af842::t_a1235754a0c906 1-5
+packages/harness-claude-code/src/claude-code-harness.ts
+  s_0296e0e20af842::t_f32b41aad8f8f2 979
+  s_0296e0e20af842::t_0575d20d58325a 33,890-893,895-902,904-906,908-910,919-926,928-945,950-969,977,980,982-983,1005,1007-1008,1023-1033
+  s_0296e0e20af842::t_39fa0287db3336 946-948
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a9c5e27a5886521193e5f3d64612c08b179fb831",
+  "prompts": {},
+  "sessions": {
+    "s_0296e0e20af842": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e5a-19e5-74b2-9c45-937a98054c8d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "João Duarte <joao.duarte@trmlabs.com>"
+    }
+  }
+}
