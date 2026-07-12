@@ -1,0 +1,30 @@
+packages/harness-claude-code/src/bridge/index.ts
+  s_2f3453e7161e07::t_19aa4491b4c8c9 37,362
+packages/harness-claude-code/src/bridge/json-schema-to-zod.test.ts
+  s_2f3453e7161e07::t_8add514e866189 1-198,222-226
+  s_2f3453e7161e07::t_413d6982f16d39 199-210
+  s_2f3453e7161e07::t_05d3bcab7cda42 211-221
+.changeset/tall-bridges-map.md
+  s_2f3453e7161e07::t_4916ea72b714c4 1-5
+packages/harness-claude-code/src/bridge/json-schema-to-zod.ts
+  s_2f3453e7161e07::t_d8f438c6b7adc0 56-57
+  s_2f3453e7161e07::t_5b58af7b786a17 1-30,36-55,58-108,110-154
+  s_2f3453e7161e07::t_c8217e77597d96 31-35
+  s_2f3453e7161e07::t_fe88b88b9e2d67 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "21011ee558dc9be6990b8cb35e6de9b8a1539922",
+  "prompts": {},
+  "sessions": {
+    "s_2f3453e7161e07": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5823-bc4e-7f02-a73e-0e553c0bd854",
+        "model": "gpt-5.5"
+      },
+      "human_author": "João Duarte <joao.duarte@trmlabs.com>"
+    }
+  }
+}
