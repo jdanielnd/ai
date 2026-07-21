@@ -1,0 +1,21 @@
+packages/harness-claude-code/src/claude-code-harness.test.ts
+  s_0296e0e20af842::t_94ad6b5e31bee8 586-602
+packages/harness-claude-code/src/claude-code-harness.ts
+  s_0296e0e20af842::t_e25347b006631b 805,809,845,921-922
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d2fe11ae2f7c22e4f927214e298b8111f66557b4",
+  "prompts": {},
+  "sessions": {
+    "s_0296e0e20af842": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e5a-19e5-74b2-9c45-937a98054c8d",
+        "model": "unknown"
+      },
+      "human_author": "João Duarte <joao.duarte@trmlabs.com>"
+    }
+  }
+}
