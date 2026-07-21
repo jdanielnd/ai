@@ -1,0 +1,31 @@
+packages/harness-claude-code/src/claude-code-harness.test.ts
+  s_0296e0e20af842::t_6aab9e87502c96 11-67,72-77,80-82,100,241-242
+  s_0296e0e20af842::t_f32b41aad8f8f2 500
+  s_0296e0e20af842::t_4f8d710b55af95 531
+  s_0296e0e20af842::t_d57d3d3f761016 524-530,532-540
+  s_0296e0e20af842::t_3fa26b16b713b2 223-236,495-499,501-523,541-561
+  s_0296e0e20af842::t_8c06045ae51a6a 101,562
+.changeset/quiet-bridges-listen.md
+  s_0296e0e20af842::t_a1235754a0c906 1-5
+packages/harness-claude-code/src/claude-code-harness.ts
+  s_0296e0e20af842::t_0575d20d58325a 33,890-892,895-896,898-902,904-906,908-910,919-926,928-932,934-946,951-970,978,981,983-984,1006,1008,1025-1035
+  s_0296e0e20af842::t_a4a4d9e0b163a2 893,897,933,1009-1010
+  s_0296e0e20af842::t_f32b41aad8f8f2 980
+  s_0296e0e20af842::t_39fa0287db3336 947-949
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a738e7c549376755c95548edb7d308d420814a62",
+  "prompts": {},
+  "sessions": {
+    "s_0296e0e20af842": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e5a-19e5-74b2-9c45-937a98054c8d",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
